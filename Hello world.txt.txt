@@ -1,2 +1,2 @@
-print ("Hello World")
-print ("Everybody") 12ó12ê
+print ("Hello World;")
+print ("Everybody;") 
